@@ -6,9 +6,14 @@
 //
 
 import SwiftUI
+import TestCoreFramework
 
 @main
 struct ConsumerTestApp: App {
+    init() {
+        SDK.sayHello()
+    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()

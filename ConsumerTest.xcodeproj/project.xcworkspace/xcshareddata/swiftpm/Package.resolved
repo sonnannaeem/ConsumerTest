@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mylibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sonnannaeem/MyLibrary.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "80a034d202a45a60a6e56eef87a22e4d8b5cdd73"
+      }
+    }
+  ],
+  "version" : 2
+}
