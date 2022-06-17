@@ -6,7 +6,8 @@
 //
 
 import SwiftUI
-import TestCoreFramework
+import GoogleSignIn
+import TestCoreFramework //This causes the No Module error (obviously)
 
 @main
 struct ConsumerTestApp: App {
